@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Outfit:wght@100..900&display=swap');
+@import 'tailwindcss';
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Josefin Sans"; 
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
