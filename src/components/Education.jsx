@@ -11,7 +11,7 @@ const Education = () => {
     },
     {
       degree: "Bachelor's Degree",
-      field: "Bachelorr of Science (Computer Science)",
+      field: "Bachelor of Science (Computer Science)",
       institution: "Dr. Babasaheb Ambedkar Marathwada University",
       cgpa: "Percentage - 75.50%",
       year: "2021 – 2024",
