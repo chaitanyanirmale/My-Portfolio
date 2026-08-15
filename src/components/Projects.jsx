@@ -24,7 +24,7 @@ const Projects = () => {
         "A modern real estate web application for exploring and managing property listings. Users can browse available properties, view important property details, and find suitable options through a user-friendly interface.",
       technologies: ["React", "Node.js", "Express.js", "MongoDB"],
       github: "https://github.com/chaitanyanirmale/real-estate-app",
-      image: "Real Estate.png",
+      image: "Prime Nest.png",
     },
   ];
 
